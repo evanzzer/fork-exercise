@@ -1,0 +1,10 @@
+Please enter your Name and NIM in format of:
+
+    Name - NIM
+
+Presence List:
+1. Theodorus Lucas - 1234567890
+2. Evans Hebert - 1234567891
+3. 
+4. 
+5. 
