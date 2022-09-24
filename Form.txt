@@ -1,6 +1,6 @@
 Please enter your Name and NIM in format of:
 
-    Name - NIM
+    Arya Bagaskara Pratama - 320200401004
 
 Presence List:
 1. Theodorus Lucas - 1234567890
